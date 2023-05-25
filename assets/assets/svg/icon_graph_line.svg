@@ -1,0 +1,7 @@
+<svg id="icon_graph_line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1271" data-name="Rectangle 1271" width="24" height="24" fill="none"/>
+  <g id="Group_375" data-name="Group 375" transform="translate(-607.177 -226.378)">
+    <line id="Line_32" data-name="Line 32" x2="14.5" transform="translate(612.177 244.358)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <path id="Path_200" data-name="Path 200" d="M612.593,237.8l2.542,1.9a1.812,1.812,0,0,0,2.485-.3l3.585-4.357a1.812,1.812,0,0,1,2.27-.439l2.786,1.525" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="icon_chart_bk" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_755" data-name="Rectangle 755" width="20" height="15.751" fill="none" stroke="#363636" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_810" data-name="Rectangle 810" width="24" height="24" fill="none"/>
+  <g id="Group_101" data-name="Group 101" transform="translate(2 4)">
+    <g id="Group_100" data-name="Group 100" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <line id="Line_16" data-name="Line 16" x2="20" transform="translate(0 15.019)" fill="none" stroke="#363636" stroke-width="1.5"/>
+      <path id="Path_31" data-name="Path 31" d="M.832,6.222l5.281,3.947L13.694.956l5.515,3.019" transform="translate(-0.021 -0.024)" fill="none" stroke="#363636" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

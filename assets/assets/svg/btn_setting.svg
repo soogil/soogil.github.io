@@ -1,0 +1,11 @@
+<svg id="btn_setting" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_894" data-name="Rectangle 894" width="24" height="24" fill="none" opacity="0.19"/>
+  <g id="Group_282" data-name="Group 282" transform="translate(-667.429 -195.64)">
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(672.491 200.702)" fill="none" stroke="#1c1c1c" stroke-width="1.5">
+      <circle cx="7.223" cy="7.223" r="7.223" stroke="none"/>
+      <circle cx="7.223" cy="7.223" r="6.473" fill="none"/>
+    </g>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="7.285" cy="7.285" r="7.285" transform="translate(672.429 200.64)" fill="none" stroke="#1c1c1c" stroke-width="1.5" stroke-dasharray="3 2"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.926" cy="2.926" r="2.926" transform="translate(676.789 205)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+  </g>
+</svg>

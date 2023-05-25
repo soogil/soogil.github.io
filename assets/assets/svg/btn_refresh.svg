@@ -1,0 +1,13 @@
+<svg id="btn_refresh" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1404" data-name="Rectangle 1404" width="24" height="24" fill="none"/>
+  <g id="Group_488" data-name="Group 488" transform="translate(3 6)">
+    <g id="Group_486" data-name="Group 486" transform="translate(3)">
+      <path id="Path_202" data-name="Path 202" d="M6.557,4.7,3.877,6.585a.58.58,0,0,1-.668,0L.431,4.632" transform="translate(7.553 -0.75)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      <path id="Path_203" data-name="Path 203" d="M14.541,6.75v-4a2,2,0,0,0-2-2h-7a2,2,0,0,0-2,2V4.691" transform="translate(-3.541 -0.75)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    </g>
+    <g id="Group_487" data-name="Group 487" transform="translate(0 6)">
+      <path id="Path_204" data-name="Path 204" d="M11.415,8.8,14.1,6.915a.58.58,0,0,1,.668,0l2.778,1.953" transform="translate(-11.415 -6.75)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      <path id="Path_205" data-name="Path 205" d="M3.431,6.75v4a2,2,0,0,0,2,2h7a2,2,0,0,0,2-2V8.809" transform="translate(-0.321 -6.75)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

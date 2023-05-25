@@ -1,0 +1,11 @@
+<svg id="icon_graph_bar" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1282" data-name="Rectangle 1282" width="24" height="24" fill="none"/>
+  <g id="Group_374" data-name="Group 374" transform="translate(-637.5 -226.358)">
+    <g id="Group_373" data-name="Group 373">
+      <line id="Line_28" data-name="Line 28" y2="6" transform="translate(645.75 238.358)" fill="none" stroke="#1c1c1c" stroke-width="3"/>
+      <line id="Line_29" data-name="Line 29" y2="8" transform="translate(649.75 236.358)" fill="none" stroke="#1c1c1c" stroke-width="3"/>
+      <line id="Line_30" data-name="Line 30" y2="11" transform="translate(653.75 233.358)" fill="none" stroke="#1c1c1c" stroke-width="3"/>
+    </g>
+    <line id="Line_31" data-name="Line 31" x2="14.5" transform="translate(642.5 244.358)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="icon_graph_dot" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1283" data-name="Rectangle 1283" width="24" height="24" fill="none"/>
+  <g id="Group_372" data-name="Group 372" transform="translate(-670 -226)">
+    <line id="Line_27" data-name="Line 27" x2="14.5" transform="translate(675 244.358)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <path id="Path_199" data-name="Path 199" d="M682.25,236" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <circle id="Ellipse_30" data-name="Ellipse 30" cx="1" cy="1" r="1" transform="translate(676.681 237)" fill="#1c1c1c" stroke="#1c1c1c" stroke-width="1.5"/>
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="1" cy="1" r="1" transform="translate(682 232)" fill="#1c1c1c" stroke="#1c1c1c" stroke-width="1.5"/>
+    <circle id="Ellipse_33" data-name="Ellipse 33" cx="1" cy="1" r="1" transform="translate(686 238)" fill="#1c1c1c" stroke="#1c1c1c" stroke-width="1.5"/>
+  </g>
+</svg>

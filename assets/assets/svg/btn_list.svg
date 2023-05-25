@@ -1,0 +1,13 @@
+<svg id="btn_list" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1328" data-name="Rectangle 1328" width="24" height="24" fill="none"/>
+  <g id="Group_402" data-name="Group 402" transform="translate(-696.5 -102.601)">
+    <line id="Line_36" data-name="Line 36" x2="2.5" transform="translate(701.5 109.6)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <line id="Line_37" data-name="Line 37" x2="2.5" transform="translate(701.5 114.644)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <line id="Line_38" data-name="Line 38" x2="2.5" transform="translate(701.5 119.689)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <g id="Group_401" data-name="Group 401">
+      <line id="Line_39" data-name="Line 39" x2="9.5" transform="translate(706 109.6)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      <line id="Line_40" data-name="Line 40" x2="9.5" transform="translate(706 114.644)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      <line id="Line_41" data-name="Line 41" x2="9.5" transform="translate(706 119.689)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

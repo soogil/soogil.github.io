@@ -1,0 +1,13 @@
+<svg id="btn_invite" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1216" data-name="Rectangle 1216" width="24" height="24" fill="none"/>
+  <g id="Group_338" data-name="Group 338" transform="translate(-302.966 -132)">
+    <g id="Group_336" data-name="Group 336">
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="3.21" cy="3.21" r="3.21" transform="translate(310.373 138.76)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      <path id="Path_186" data-name="Path 186" d="M319.2,152v-1.2a5.617,5.617,0,0,0-11.234,0V152" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    </g>
+    <g id="Group_337" data-name="Group 337">
+      <line id="Line_24" data-name="Line 24" x2="5" transform="translate(318.2 138.5)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      <line id="Line_25" data-name="Line 25" y2="5" transform="translate(320.7 136)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

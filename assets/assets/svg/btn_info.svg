@@ -1,0 +1,10 @@
+<svg id="btn_info" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1214" data-name="Rectangle 1214" width="24" height="24" transform="translate(24 24) rotate(180)" fill="none"/>
+  <g id="Group_333" data-name="Group 333" transform="translate(632.458 220.343) rotate(180)">
+    <path id="Path_190" data-name="Path 190" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(612.458 200.342)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <g id="Group_332" data-name="Group 332" transform="translate(619.5 203.884)">
+      <path id="Path_184" data-name="Path 184" d="M0,0V6" transform="translate(1)" fill="#1c1c1c" stroke="#1c1c1c" stroke-width="1.5"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="1" cy="1" r="1" transform="translate(0 7)" fill="#1c1c1c"/>
+    </g>
+  </g>
+</svg>

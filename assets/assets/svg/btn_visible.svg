@@ -1,0 +1,7 @@
+<svg id="btn_visible" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1195" data-name="Rectangle 1195" width="24" height="24" fill="none"/>
+  <g id="Group_293" data-name="Group 293" transform="translate(4 7)">
+    <path id="Path_149" data-name="Path 149" d="M629.129,173.458a1.859,1.859,0,0,1,0,2.644c-1.539,1.523-4.4,3.821-7.682,3.821s-6.144-2.3-7.683-3.821a1.859,1.859,0,0,1,0-2.644c1.539-1.524,4.4-3.822,7.683-3.822S627.59,171.934,629.129,173.458Z" transform="translate(-613.212 -169.636)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="2.805" cy="2.805" r="2.805" transform="translate(5.429 2.338)" fill="#fff" stroke="#1c1c1c" stroke-width="1.5"/>
+  </g>
+</svg>

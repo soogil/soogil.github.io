@@ -1,0 +1,12 @@
+<svg id="btn_edit" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1188" data-name="Rectangle 1188" width="24" height="24" fill="none"/>
+  <g id="Group_291" data-name="Group 291" transform="translate(-517.875 -162.891)">
+    <path id="Path_146" data-name="Path 146" d="M536.091,176.984v3.106a1.85,1.85,0,0,1-1.851,1.85h-9.515a1.85,1.85,0,0,1-1.85-1.85v-9.515a1.85,1.85,0,0,1,1.85-1.851h2.693" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    <g id="Group_290" data-name="Group 290">
+      <g id="Group_289" data-name="Group 289">
+        <path id="Path_147" data-name="Path 147" d="M532.36,168.432l-4.942,4.943v3.51a.925.925,0,0,0,.925.925h3.585l4.905-4.9a1.85,1.85,0,0,0,0-2.617l-1.856-1.856A1.852,1.852,0,0,0,532.36,168.432Z" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      </g>
+      <line id="Line_11" data-name="Line 11" x2="4.318" y2="4.318" transform="translate(527.531 173.45)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

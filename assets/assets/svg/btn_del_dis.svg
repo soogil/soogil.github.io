@@ -1,0 +1,12 @@
+<svg id="btn_del_dis" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1191" data-name="Rectangle 1191" width="24" height="24" fill="none"/>
+  <g id="Group_288" data-name="Group 288" transform="translate(-545.76 -162)">
+    <path id="Rectangle_1192" data-name="Rectangle 1192" d="M0,0H10.747a0,0,0,0,1,0,0V10.181a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="translate(552.887 169.819)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+    <line id="Line_8" data-name="Line 8" x2="15" transform="translate(550.76 169.819)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+    <path id="Rectangle_1193" data-name="Rectangle 1193" d="M2,0H4.878a2,2,0,0,1,2,2v.819a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(554.821 167)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+    <g id="Group_287" data-name="Group 287">
+      <line id="Line_9" data-name="Line 9" y2="8.598" transform="translate(556.473 173.402)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+      <line id="Line_10" data-name="Line 10" y2="8.598" transform="translate(560.048 173.402)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

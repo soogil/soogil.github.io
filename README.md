@@ -1,1 +1,0 @@
-# soogil.github.io

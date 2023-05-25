@@ -1,0 +1,8 @@
+<svg id="btn_logout" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1059" data-name="Rectangle 1059" width="24" height="24" fill="none"/>
+  <g id="Group_254" data-name="Group 254" transform="translate(-415.354 -133.236)">
+    <path id="Path_129" data-name="Path 129" d="M422.142,150.128v.917a1.748,1.748,0,0,0,1.862,1.6h9.134a1.747,1.747,0,0,0,1.862-1.6V139.84a1.746,1.746,0,0,0-1.862-1.6H424a1.746,1.746,0,0,0-1.862,1.6v.917" fill="none" stroke="#fff" stroke-width="1.5"/>
+    <line id="Line_1" data-name="Line 1" x2="10.242" transform="translate(420.355 145.442)" fill="none" stroke="#fff" stroke-width="1.5"/>
+    <path id="Path_130" data-name="Path 130" d="M426.909,149.587l3.436-4.077L426.8,141.3" fill="none" stroke="#fff" stroke-width="1.5"/>
+  </g>
+</svg>

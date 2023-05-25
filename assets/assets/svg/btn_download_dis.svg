@@ -1,0 +1,8 @@
+<svg id="btn_download_dis" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1190" data-name="Rectangle 1190" width="24" height="24" fill="none"/>
+  <g id="Group_283" data-name="Group 283" transform="translate(-575.635 -195.626)">
+    <path id="Path_144" data-name="Path 144" d="M580.635,211.213v1.012a2,2,0,0,0,2,2h9.555a2,2,0,0,0,2-2v-1.012" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+    <line id="Line_6" data-name="Line 6" y2="8.284" transform="translate(587.412 201.626)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+    <path id="Path_145" data-name="Path 145" d="M582.141,206.06l4.612,3.242a1,1,0,0,0,1.15,0l4.781-3.361" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+  </g>
+</svg>

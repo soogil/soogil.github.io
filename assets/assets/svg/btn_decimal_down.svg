@@ -1,0 +1,20 @@
+<svg id="btn_decimal_down" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1203" data-name="Rectangle 1203" width="24" height="24" fill="none"/>
+  <g id="Group_304" data-name="Group 304" transform="translate(4 5)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(3.551)">
+      <g id="Group_302" data-name="Group 302">
+        <path id="Path_166" data-name="Path 166" d="M763.919,206.37v1.323h-1.368V206.37Z" transform="translate(-762.551 -201.24)" fill="#1c1c1c"/>
+        <path id="Path_167" data-name="Path 167" d="M764.612,204.462q0-3.222,2.43-3.222a2.051,2.051,0,0,1,1.854.864,5.2,5.2,0,0,1,0,4.725,2.051,2.051,0,0,1-1.854.864Q764.613,207.693,764.612,204.462Zm3.6,0a3.742,3.742,0,0,0-.239-1.5,1.1,1.1,0,0,0-1.872,0,4.845,4.845,0,0,0,0,3.006,1.095,1.095,0,0,0,1.872,0A3.766,3.766,0,0,0,768.213,204.462Z" transform="translate(-762.551 -201.24)" fill="#1c1c1c"/>
+        <path id="Path_168" data-name="Path 168" d="M770.3,204.462q0-3.222,2.429-3.222a2.052,2.052,0,0,1,1.855.864,5.205,5.205,0,0,1,0,4.725,2.052,2.052,0,0,1-1.855.864Q770.3,207.693,770.3,204.462Zm3.6,0a3.742,3.742,0,0,0-.239-1.5,1.1,1.1,0,0,0-1.872,0,4.865,4.865,0,0,0,0,3.006,1.095,1.095,0,0,0,1.872,0A3.766,3.766,0,0,0,773.9,204.462Z" transform="translate(-762.551 -201.24)" fill="#1c1c1c"/>
+        <path id="Path_169" data-name="Path 169" d="M769.606,214.37v1.323h-1.368V214.37Z" transform="translate(-762.551 -201.24)" fill="#1c1c1c"/>
+        <path id="Path_170" data-name="Path 170" d="M770.3,212.462q0-3.222,2.429-3.222a2.052,2.052,0,0,1,1.855.864,5.205,5.205,0,0,1,0,4.725,2.052,2.052,0,0,1-1.855.864Q770.3,215.693,770.3,212.462Zm3.6,0a3.742,3.742,0,0,0-.239-1.5,1.1,1.1,0,0,0-1.872,0,4.865,4.865,0,0,0,0,3.006,1.095,1.095,0,0,0,1.872,0A3.766,3.766,0,0,0,773.9,212.462Z" transform="translate(-762.551 -201.24)" fill="#1c1c1c"/>
+      </g>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0 8.76)">
+      <g id="Group_303" data-name="Group 303">
+        <path id="Path_171" data-name="Path 171" d="M761.215,216l2.141-2.035a1.265,1.265,0,0,0,0-1.834L761.114,210" transform="translate(-759 -210)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+        <line id="Line_17" data-name="Line 17" x1="5" transform="translate(0 3)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

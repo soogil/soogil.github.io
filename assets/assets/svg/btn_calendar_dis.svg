@@ -1,0 +1,25 @@
+<svg id="btn_calendar_dis" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1336" data-name="Rectangle 1336" width="24" height="24" fill="none"/>
+  <g id="Group_413" data-name="Group 413" transform="translate(-727.167 -227.5)">
+    <g id="Group_409" data-name="Group 409">
+      <rect id="Rectangle_1337" data-name="Rectangle 1337" width="13.82" height="12" rx="2" transform="translate(732.167 233.5)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+      <g id="Group_408" data-name="Group 408">
+        <line id="Line_43" data-name="Line 43" y2="4" transform="translate(735.313 231.5)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+        <line id="Line_44" data-name="Line 44" y2="4" transform="translate(742.84 231.5)" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+      </g>
+    </g>
+    <line id="Line_45" data-name="Line 45" x2="13.82" transform="translate(732.167 237.221)" fill="none" stroke="#b4b4b4" stroke-width="1"/>
+    <g id="Group_412" data-name="Group 412">
+      <g id="Group_410" data-name="Group 410">
+        <rect id="Rectangle_1338" data-name="Rectangle 1338" width="2.222" height="1.6" transform="translate(734.077 239.2)" fill="#b4b4b4"/>
+        <rect id="Rectangle_1339" data-name="Rectangle 1339" width="2.222" height="1.6" transform="translate(737.965 239.2)" fill="#b4b4b4"/>
+        <rect id="Rectangle_1340" data-name="Rectangle 1340" width="2.222" height="1.6" transform="translate(741.854 239.2)" fill="#b4b4b4"/>
+      </g>
+      <g id="Group_411" data-name="Group 411">
+        <rect id="Rectangle_1341" data-name="Rectangle 1341" width="2.222" height="1.6" transform="translate(734.077 241.6)" fill="#b4b4b4"/>
+        <rect id="Rectangle_1342" data-name="Rectangle 1342" width="2.222" height="1.6" transform="translate(737.965 241.6)" fill="#b4b4b4"/>
+        <rect id="Rectangle_1343" data-name="Rectangle 1343" width="2.222" height="1.6" transform="translate(741.854 241.6)" fill="#b4b4b4"/>
+      </g>
+    </g>
+  </g>
+</svg>

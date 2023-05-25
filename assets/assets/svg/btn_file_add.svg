@@ -1,0 +1,22 @@
+<svg id="btn_file_add" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1204" data-name="Rectangle 1204" width="24" height="24" fill="none"/>
+  <g id="Group_314" data-name="Group 314" transform="translate(-697.215 -162.8)">
+    <g id="Layer_1" data-name="Layer 1">
+      <g id="Group_311" data-name="Group 311">
+        <line id="Line_19" data-name="Line 19" x2="5" transform="translate(712.7 167.3)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+        <line id="Line_20" data-name="Line 20" y2="5" transform="translate(715.2 164.8)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="Layer_2" data-name="Layer 2">
+      <line id="Line_21" data-name="Line 21" x2="3" transform="translate(709.715 171.28)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      <g id="Group_312" data-name="Group 312">
+        <path id="Path_176" data-name="Path 176" d="M715.215,171.28v9a2,2,0,0,1-2,2h-9a2,2,0,0,1-2-2v-7.807l5-5.193h4" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+        <path id="Path_177" data-name="Path 177" d="M707.215,167.28v3a2,2,0,0,1-2,2h-3" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      </g>
+      <g id="Group_313" data-name="Group 313">
+        <line id="Line_22" data-name="Line 22" x2="8" transform="translate(704.715 174.78)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+        <line id="Line_23" data-name="Line 23" x2="8" transform="translate(704.715 178.28)" fill="none" stroke="#1c1c1c" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
